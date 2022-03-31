@@ -13,8 +13,8 @@ public class Ex20 {
 		media = 5.0;
 		System.out.printf("Digite sua primeira nota");
 		P1 = ler.nextDouble();
-		P2 = (( media * 3 ) - P1 ) / 2 ;
-		System.out.printf( "Para poder passar você deve tirar pelo menos %.1f na segunda prova!" , P2 );
+		P2 = (15  - P1 ) / 2 ;
+		System.out.printf( "Para poder passar vocÃª deve tirar pelo menos %.1f na segunda prova!" , P2 );
 		
 		
 
